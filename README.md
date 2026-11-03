@@ -22,12 +22,12 @@ Desenvolver um sistema interativo de pedidos utilizando programação em C++, Ar
 
 O sistema possui seis etapas:
 
-1. Tela inicial: permite iniciar um pedido.
-2. Seleção de produtos: permite navegar pelo cardápio e confirmar itens.
-3. Pergunta adicional: permite adicionar outro produto ou finalizar o pedido.
-4. Preparação: apresenta uma contagem regressiva de 10 segundos.
-5. Pedido pronto: informa que o pedido está disponível para recebimento.
-6. Agradecimento: apresenta uma mensagem e retorna à tela inicial.
+1. **Tela inicial:** permite iniciar um pedido.
+2. **Seleção de produtos:** permite navegar pelo cardápio e confirmar itens.
+3. **Pergunta adicional:** permite adicionar outro produto ou finalizar o pedido.
+4. **Preparação:** apresenta uma contagem regressiva de 10 segundos.
+5. **Pedido pronto:** informa que o pedido está disponível para recebimento.
+6. **Agradecimento:** apresenta uma mensagem e retorna à tela inicial.
 
 ## Recursos implementados
 
@@ -46,9 +46,17 @@ O sistema possui seis etapas:
 - Tinkercad
 - Display LCD I2C
 
+## Projeto no Tinkercad
+
+[Acessar simulação do Painel Interativo para Fast Food](https://www.tinkercad.com/things/6gbv4W8X326)
+
 ## Estrutura do repositório
 
-Os arquivos do código-fonte, testes, registros de problemas e imagens do projeto serão organizados neste repositório.
+- `README.md` — documentação principal do projeto.
+- `projeto04.cpp` — código-fonte do sistema.
+- `testes.md` — tabela com os 12 casos de teste.
+- `imagens/` — capturas de tela do funcionamento.
+- Issue do GitHub — registro do problema identificado e sua solução.
 
 ## Autoria
 
